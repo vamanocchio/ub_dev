@@ -4,3 +4,13 @@ version = "0.1.0"
 authors = ["Victorianna Manocchio <manocchio.v@gmail.com>"]
 
 [dependencies]
+find_folder = "0.3.0"
+glium = "0.21.0"
+image = "0.19.0"
+piston = "0.37.0"
+pistoncore-glutin_window = "0.47.0"
+piston2d-glium_graphics = "0.50.0"
+piston2d-graphics = "0.26.0"
+piston-texture = "0.6.0"
+serde_json = "1.0.19"
+tiled = "0.7.4"
